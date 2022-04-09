@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EyKo-dev
+- 👀 I’m interested in devlopment and Cybersecurity
+- 🌱 I’m currently learning C++
