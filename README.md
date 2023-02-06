@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?eyko-dev=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyko-dev)](https://github.com/anuraghazra/github-readme-stats)
