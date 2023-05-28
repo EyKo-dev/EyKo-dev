@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Python
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyko-dev&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyko-dev&theme=github_dark)]
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@eyko)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EyKo)]
