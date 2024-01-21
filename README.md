@@ -5,4 +5,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyko-dev&theme=github_dark)]
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NZO)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NZO&show_icons=true&theme=radical)
