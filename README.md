@@ -4,4 +4,4 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NZO&show_icons=true&theme=radical)
 
-[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?NZO=ffflabs)]
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?NZO=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
