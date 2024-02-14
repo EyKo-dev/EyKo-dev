@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning Python
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NZO&show_icons=true&theme=radical)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?@NZO=ffflabs)]
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NZO)]
