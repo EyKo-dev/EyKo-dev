@@ -4,5 +4,5 @@
 - 👀 I’m interested in devlopment and cybersecurity.
 - 🌱 I’m currently learning C and Rust.
 
-[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NZO&langs_count=5)]
+![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NZO&langs_count=5)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NZO&show_icons=true&theme=radical)
